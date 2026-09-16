@@ -210,3 +210,6 @@ Celestia is available as a complete free version, giving users access to all fea
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-16 19:55:23 UTC
